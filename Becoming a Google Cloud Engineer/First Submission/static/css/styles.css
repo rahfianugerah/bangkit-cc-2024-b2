@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* START OF COMPONENTS */
+#hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+#project {
+    padding-top: 50px;
+}
+
+#contact {
+    background-color: #333;
+    padding: 20px;
+}
+
+.card {
+    height: 100%;
+  }
+
+.gallery-item {
+    display: flex;
+    justify-content: center;
+}
+
+#colored-text{
+    color: #00dfc0;
+}
+
+.card-title{
+    color: #333;
+    font-size: bold;
+}
+
+.nav-link:focus,
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #ced4da;
+}
+
+.form-select:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #ced4da;
+}
+
+.btn-custom {
+    background-color: #333;
+    color: #00dfc0;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.btn-custom:hover {
+    background-color: #333;
+    color: #00dfc0;
+}
+
+.btn-custom:active {
+    background-color: #333;
+    color: #00dfc0;
+    box-shadow: none;
+}
+
+.btn-custom:focus {
+    outline: none;
+    color: #00dfc0;
+    background-color: #333;
+}
+/* END OF COMPONENTS */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
