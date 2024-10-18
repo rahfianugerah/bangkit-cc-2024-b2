@@ -4,7 +4,7 @@ const { loadModel, predict } = require('./inference');
 (async () => {
   // load and get machine learning model
   const model = await loadModel();
-  console.log('model loaded!');
+  console.log('Model Loaded!');
  
   // initializing HTTP server
   const server = Hapi.server({
@@ -33,6 +33,7 @@ const { loadModel, predict } = require('./inference');
  
       return { result: 'scissors' };
     },
+    
     // make request payload as `multipart/form-data` to accept file upload
     options: {
       payload: {
@@ -45,5 +46,5 @@ const { loadModel, predict } = require('./inference');
   // running server
   await server.start();
  
-  console.log(`Server start at: ${server.info.uri}`);
+  console.log(`Server run at: ${server.info.uri}`);
 })();
