@@ -39,3 +39,6 @@ I would like to express my gratitude to the following individuals and organizati
 - **Collaborators and Peers** – for their invaluable feedback, collaboration, and support on various projects.
 
 Your contributions and support were instrumental in completing this body of work!
+
+#### Project Author
+GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
