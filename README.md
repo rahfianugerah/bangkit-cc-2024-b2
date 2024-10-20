@@ -16,6 +16,23 @@
 
 <div align=center>
   <h3>Table of Contents</h3>
+  <h4>Course Submissions & Code Resources</h4>
+</div>
+
+<div align=center>
+  
+| Courses | Links |
+|---|---|
+| Learn the Basics of Web Programming |   |
+| Learn the Basics of JavaScript Programming |   |
+| Learn to Build Back-End Applications for Beginners with Google Cloud |   |
+| Becoming a Google Cloud Engineer |   |
+| Learn to Implement Machine Learning with Google Cloud |   |
+
+</div>
+
+<div align=center>
+  <h4>Certificates & Credentials</h4>
 </div>
 
 <div align=center>
@@ -39,6 +56,8 @@ I would like to express my gratitude to the following individuals and organizati
 - **Collaborators and Peers** – for their invaluable feedback, collaboration, and support on various projects.
 
 Your contributions and support were instrumental in completing this body of work!
+
+
 
 #### Project Author
 GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
