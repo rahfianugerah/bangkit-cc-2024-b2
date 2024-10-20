@@ -13,3 +13,29 @@
   This repository showcases all my work in the Cloud Computing Path, covering course submissions, code resources, and documentations. 
   It includes hands-on cloud deployment scripts, configuration files, and technical documentation for cloud projects.
 </p>
+
+<div align=center>
+  <h3>Table of Contents</h3>
+</div>
+
+<div align=center>
+  
+| Courses | Links |
+|---|---|
+| Learn the Basics of Web Programming |   |
+| Learn the Basics of JavaScript Programming |   |
+| Learn to Build Back-End Applications for Beginners with Google Cloud |   |
+| Becoming a Google Cloud Engineer |   |
+| Learn to Implement Machine Learning with Google Cloud |   |
+
+</div>
+
+#### Acknowledgements
+I would like to express my gratitude to the following individuals and organizations for their support and contributions:
+
+- **Bangkit Academy 2024 Batch 2 Program** – for providing the platform to learn, grow, and apply my cloud computing skills.
+- **Google Cloud Platform** – for offering the tools and resources that made cloud deployment and management possible.
+- **My Mentor and Instructors** – for their guidance and expertise throughout my cloud computing journey.
+- **Collaborators and Peers** – for their invaluable feedback, collaboration, and support on various projects.
+
+Your contributions and support were instrumental in completing this body of work!
