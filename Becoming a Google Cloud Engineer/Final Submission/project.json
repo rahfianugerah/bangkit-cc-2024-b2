@@ -1,0 +1,6 @@
+{
+  "project_name": "<your-project-name>",
+  "url_fe": "http://frontend.<your-project-id>.et.r.appspot.com",
+  "url_be": "https://backend-dot-<your-project-id>.et.r.appspot.com",
+  "bucket_name": "<your-bucket-name>"
+}
