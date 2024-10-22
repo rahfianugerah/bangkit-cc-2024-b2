@@ -23,11 +23,11 @@
   
 | Courses | Links |
 |---|---|
-| Learn the Basics of Web Programming |   |
-| Learn the Basics of JavaScript Programming |   |
-| Learn to Build Back-End Applications for Beginners with Google Cloud |   |
-| Becoming a Google Cloud Engineer |   |
-| Learn to Implement Machine Learning with Google Cloud |   |
+| Learn the Basics of Web Programming | [Click here!]() |
+| Learn the Basics of JavaScript Programming | [Click here!]() |
+| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!]() |
+| Becoming a Google Cloud Engineer | [Click here!]() |
+| Learn to Implement Machine Learning with Google Cloud | [Click here!]() |
 
 </div>
 
@@ -39,11 +39,11 @@
   
 | Courses | Links |
 |---|---|
-| Learn the Basics of Web Programming |   |
-| Learn the Basics of JavaScript Programming |   |
-| Learn to Build Back-End Applications for Beginners with Google Cloud |   |
-| Becoming a Google Cloud Engineer |   |
-| Learn to Implement Machine Learning with Google Cloud |   |
+| Learn the Basics of Web Programming | [Click here!]() |
+| Learn the Basics of JavaScript Programming | [Click here!]() |
+| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!]() |
+| Becoming a Google Cloud Engineer | [Click here!]() |
+| Learn to Implement Machine Learning with Google Cloud | [Click here!]() |
 
 </div>
 
