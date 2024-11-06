@@ -13,5 +13,8 @@
     "@hapi/hapi": "^21.3.12",
     "@tensorflow/tfjs-node": "^4.22.0",
     "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
