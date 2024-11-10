@@ -44,7 +44,7 @@
 | Learn the Basics of JavaScript Programming | [Click here!](https://www.dicoding.com/certificates/KEXL154JMXG2) |
 | Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!](https://www.dicoding.com/certificates/L4PQ5484VZO1) |
 | Becoming a Google Cloud Engineer | [Click here!](https://www.dicoding.com/certificates/L4PQ51RDOZO1) |
-| Learn to Implement Machine Learning with Google Cloud | [Click here!]() |
+| Learn to Implement Machine Learning with Google Cloud | [Click here!](https://www.dicoding.com/certificates/N9ZOYN8J8PG5) |
 
 </div>
 
@@ -57,8 +57,6 @@ I would like to express my gratitude to the following individuals and organizati
 - **Collaborators and Peers** – for their invaluable feedback, collaboration, and support on various projects.
 
 Your contributions and support were instrumental in completing this body of work!
-
-
 
 #### Project Author
 GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
