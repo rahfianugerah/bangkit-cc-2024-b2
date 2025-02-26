@@ -4,7 +4,7 @@
 
 <div align=center>
   <img src="https://github.com/user-attachments/assets/451ab2dd-30e5-4513-aeb3-0e2588ec99bf" height=150 width=200>
-  <h3>Bangkit Academy 2024 Batch 2 - Course Submissions, Resources, and Docs</h3>
+  <h3>Bangkit Academy 2024 Batch 2 - Course Submissions, Code Resources, and Docs</h3>
 </div>
 
 #### Overview
