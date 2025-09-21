@@ -24,11 +24,11 @@
 | Courses | Links |
 |---|---|
 | Learn the Basics of Web Programming | [Click here!]() |
-| Learn the Basics of JavaScript Programming | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/Learn%20the%20Basics%20of%20JavaScript%20Programming) |
-| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/Learn%20to%20Build%20Back-End%20Applications%20for%20Beginners%20with%20Google%20Cloud) |
-| Becoming a Google Cloud Engineer | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/Becoming%20a%20Google%20Cloud%20Engineer) |
-| Learn to Implement Machine Learning with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/Learn%20to%20Implement%20Machine%20Learning%20with%20Google%20Cloud) |
-| ACE Simulation Exam | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/ACE%20Simulation%20Exam) |
+| Learn the Basics of JavaScript Programming | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bdpj) |
+| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bmabeupdgc) |
+| Becoming a Google Cloud Engineer | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/mgce) |
+| Learn to Implement Machine Learning with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bpmldgc) |
+| ACE Simulation Exam | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/ace-simulation) |
 
 </div>
 
