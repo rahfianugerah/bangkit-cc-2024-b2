@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MyIkan - Landing Pages</title>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header class="header" role="banner">
+    <div class="header__inner">
+      <a href="#hero" class="logo" aria-label="MyIkan Home">
+        <h1>MyIkan&nbsp;<i class="fa-solid fa-fish"></i></h1>
+      </a>
+
+      <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Buka navigasi">
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+      </button>
+
+      <nav id="main-nav" class="header-nav" role="navigation">
+        <a href="#hero"><i class="fa-solid fa-house"></i>&nbsp;Home</a>
+        <a href="#feed"><i class="fa-regular fa-face-smile"></i>&nbsp;Feeds</a>
+        <a href="#about"><i class="fa-solid fa-user"></i>&nbsp;About</a>
+        <a href="#" id="contact-link"><i class="fa-solid fa-phone"></i>&nbsp;Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Contact drawer -->
+    <aside class="contact-aside" aria-hidden="true">
+      <!-- tombol close di atas -->
+      <div class="aside-top">
+        <button id="close-aside" class="btn btn--ghost btn--sm" aria-label="Tutup kontak">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <!-- brand pindah ke bawah tombol X -->
+      <div class="aside-brand">
+        <img class="aside-logo" src="assets/img/logo.png" alt="Logo MyIkan" />
+        <div class="aside-title">
+          <h2>MyIkan</h2>
+          <p>Customer & Partnership</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <h3>Hubungi Kami</h3>
+        <ul class="contact-list">
+          <li>
+            <span class="icon-pill"><i class="fa-solid fa-phone"></i></span>
+            <a href="tel:+11234567890">+1 (123) 456-7890</a>
+          </li>
+          <li>
+            <span class="icon-pill"><i class="fa-solid fa-envelope"></i></span>
+            <a href="mailto:contact@myikaninc.com">contact@myikaninc.com</a>
+          </li>
+          <li>
+            <span class="icon-pill"><i class="fa-solid fa-location-dot"></i></span>
+            <span>Seaside Blvd, Ocean City</span>
+          </li>
+        </ul>
+
+        <div class="contact-actions">
+          <a class="btn btn--primary" href="mailto:contact@myikaninc.com">
+            <i class="fa-solid fa-paper-plane"></i>&nbsp;Kirim Email
+          </a>
+          <a class="btn btn--outline" href="tel:+11234567890">
+            <i class="fa-solid fa-phone"></i>&nbsp;Telepon
+          </a>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <h3>Ikuti Kami</h3>
+        <div class="social-row">
+          <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" class="social-icon" title="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://twitter.com" target="_blank" rel="noreferrer noopener" class="social-icon" title="X/Twitter"><i class="fab fa-x-twitter"></i></a>
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" class="social-icon" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.reddit.com" target="_blank" rel="noreferrer noopener" class="social-icon" title="Reddit"><i class="fab fa-reddit-alien"></i></a>
+          <a href="https://www.pinterest.com" target="_blank" rel="noreferrer noopener" class="social-icon" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+        </div>
+      </div>
+
+      <div class="aside-footer">
+        <p>&copy; 2024 MyIkan, Inc. All rights reserved.</p>
+      </div>
+    </aside>
+
+    <!-- Hero -->
+    <section class="jumbotron" id="hero" style="background-image:url(assets/img/sea.jpeg)" aria-label="Hero">
+      <div class="jumbotron-content reveal-up">
+        <h2 class="jumbotron-welcome">Selamat Datang di MyIkan</h2>
+        <p>Temukan Keajaiban Dunia Bawah Laut: <br/>Jelajahi fakta menarik & unik tentang berbagai jenis ikan yang memikat dan misterius!</p>
+        <a href="#to-another-page-examples" class="btn btn--primary btn--lg">Explore Now</a>
+      </div>
+    </section>
+
+    <!-- Carousel / Feeds -->
+    <section class="slider" id="feed" aria-roledescription="carousel" aria-label="Feed Ikan">
+      <article class="myslide fade" aria-hidden="true">
+        <div class="txt reveal">
+          <h3>Ikan Tang Biru (Blue Tang Fish)</h3>
+          <p>Ikan tang biru (blue tang) terkenal dengan warna biru cerah & garis hitam. Nama ilmiah: <i>Paracanthurus hepatus</i>. Umum di terumbu karang Samudra Hindia & Pasifik.</p>
+        </div>
+        <img class="slider_img" src="assets/img/tangbiru.jpg" alt="Ikan Tang Biru" />
+      </article>
+
+      <article class="myslide fade" aria-hidden="true">
+        <div class="txt reveal">
+          <h3>Ikan Badut (Clown Fish)</h3>
+          <p>Ikan badut kecil berwarna cerah, oranye dengan garis putih. Hidup bersimbiosis dengan anemon laut untuk berlindung dari predator.</p>
+        </div>
+        <img class="slider_img" src="assets/img/nemo.jpg" alt="Ikan Badut" />
+      </article>
+
+      <article class="myslide fade" aria-hidden="true">
+        <div class="txt reveal">
+          <h3>Penyu Laut (Sea Turtle)</h3>
+          <p>Penyu adalah reptil laut bercangkang keras & tubuh aerodinamis. Contoh spesies: penyu hijau (<i>Chelonia mydas</i>) dan penyu belimbing (<i>Dermochelys coriacea</i>).</p>
+        </div>
+        <img class="slider_img" src="assets/img/penyu.jpg" alt="Penyu Laut" />
+      </article>
+
+      <button class="prev" aria-label="Slide sebelumnya"><i class="bx bx-chevron-left"></i></button>
+      <button class="next" aria-label="Slide berikutnya"><i class="bx bx-chevron-right"></i></button>
+
+      <div class="dotsbox" role="tablist" aria-label="Pilih slide">
+        <button class="dot" aria-label="Slide 1"></button>
+        <button class="dot" aria-label="Slide 2"></button>
+        <button class="dot" aria-label="Slide 3"></button>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="jumbotron-about" id="about" aria-label="Tentang MyIkan">
+      <div class="jumbotron-content-about reveal-up">
+        <h2 class="jumbotron-text-about">About MyIkan</h2>
+        <img class="creator-avatar" src="assets/img/profile.png" alt="Profil" />
+        <br/>
+        <h3 class="jumbotron-text-about">Naufal Rahfi Anugerah - Creator MyIkan, Inc</h3>
+        <div class="jumbotron-text-container">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ut reiciendis quibusdam labore ea animi perspiciatis aliquid debitis, quod id, accusantium maxime dolores, iste eligendi. In ullam mollitia magni laborum.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <p>&copy; 2024 MyIkan, Inc. All rights reserved</p>
+  </footer>
+
+  <script defer src="assets/js/script.js"></script>
+</body>
+</html>
