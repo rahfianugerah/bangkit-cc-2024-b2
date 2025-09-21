@@ -21,14 +21,14 @@
 
 <div align=center>
   
-| Courses | Links |
+| Courses | My Submission |
 |---|---|
-| Learn the Basics of Web Programming | [Click here!]() |
-| Learn the Basics of JavaScript Programming | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bdpj) |
-| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bmabeupdgc) |
-| Becoming a Google Cloud Engineer | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/mgce) |
-| Learn to Implement Machine Learning with Google Cloud | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bpmldgc) |
-| ACE Simulation Exam | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/ace-simulation) |
+| Learn the Basics of Web Programming (Belajar Dasar Pemrograman Web) | [Click here!](https://github.com/rahfianugerah/bangkit-cc-2024-b2/tree/main/bdpw) |
+| Learn the Basics of JavaScript Programming (Belajar Dasar Pemrograman JavaScript) | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bdpj) |
+| Learn to Build Back-End Applications for Beginners with Google Cloud (Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud) | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bmabeupdgc) |
+| Becoming a Google Cloud Engineer (Menjadi Google Cloud Engineer) | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/mgce) |
+| Learn to Implement Machine Learning with Google Cloud (Belajar Penerapan Machine Learning dengan Google Cloud) | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/bpmldgc) |
+| ACE Simulation Exam (Simulasi Ujian Associate Cloud Engineer) | [Click here!](https://github.com/rahfianugerah/cc-ba2024-h2-b2/tree/main/ace-simulation) |
 
 </div>
 
@@ -38,13 +38,13 @@
 
 <div align=center>
   
-| Courses | Links |
+| Courses | Certificate Credential Links |
 |---|---|
-| Learn the Basics of Web Programming | [Click here!](https://www.dicoding.com/certificates/KEXL1KQO0XG2) |
-| Learn the Basics of JavaScript Programming | [Click here!](https://www.dicoding.com/certificates/KEXL154JMXG2) |
-| Learn to Build Back-End Applications for Beginners with Google Cloud | [Click here!](https://www.dicoding.com/certificates/L4PQ5484VZO1) |
-| Becoming a Google Cloud Engineer | [Click here!](https://www.dicoding.com/certificates/L4PQ51RDOZO1) |
-| Learn to Implement Machine Learning with Google Cloud | [Click here!](https://www.dicoding.com/certificates/N9ZOYN8J8PG5) |
+| Learn the Basics of Web Programming (Belajar Dasar Pemrograman Web) | [Click here!](https://www.dicoding.com/certificates/KEXL1KQO0XG2) |
+| Learn the Basics of JavaScript Programming (Belajar Dasar Pemrograman JavaScript) | [Click here!](https://www.dicoding.com/certificates/KEXL154JMXG2) |
+| Learn to Build Back-End Applications for Beginners with Google Cloud (Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud) | [Click here!](https://www.dicoding.com/certificates/L4PQ5484VZO1) |
+| Becoming a Google Cloud Engineer (Menjadi Google Cloud Engineer) | [Click here!](https://www.dicoding.com/certificates/L4PQ51RDOZO1) |
+| Learn to Implement Machine Learning with Google Cloud (Belajar Penerapan Machine Learning dengan Google Cloud) | [Click here!](https://www.dicoding.com/certificates/N9ZOYN8J8PG5) |
 
 </div>
 
@@ -60,3 +60,4 @@ Your contributions and support were instrumental in completing this body of work
 
 #### Project Author
 GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
+
